@@ -5,14 +5,14 @@ function Header(){
     return(
         <header>
             <p>
-                <span>NC</span>
+                <span className="highlight">NC</span>
                 Expolorer
             </p>
 
-            <p>searrch icon</p>
+            <p>Search icon</p>
 
-            <p>locations</p>
-            <p>about</p>
+            <p>Locations</p>
+            <p>About</p>
         </header>
     )
 }
