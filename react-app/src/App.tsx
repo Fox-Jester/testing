@@ -1,5 +1,6 @@
 
-import Header from "./components/Header"
+import Header from "./components/Header.tsx"
+import PageTitle from "./components/PageTitle.tsx"
 
 function App(){
 
@@ -7,6 +8,7 @@ function App(){
 return (
     <>
     <Header></Header>
+    <PageTitle></PageTitle>
     </>
 )
         
